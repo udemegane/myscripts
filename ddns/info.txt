@@ -1,0 +1,5 @@
+udemegane.net: mydns711592 / k5LZ7zYjhU4
+cloud.udemegane.net: mydns476465 / YknQuDAGNBW
+portfolio.udemegane.net: mydns639692 / rrn4CJVxAmd
+blog.udemegane.net: mydns691474	/ PzVYEVXeY4N
+test.udemegane.net: mydns243818 / TyusRouXyrm
